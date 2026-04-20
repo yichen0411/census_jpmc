@@ -6,6 +6,10 @@
 pip install pandas numpy scikit-learn matplotlib seaborn jupyter
 ```
 
+## Setup
+
+Place `census_analysis.ipynb`, `census-bureau.data`, and `census-bureau.columns` in the same directory. The data files are not included in this repo due to size.
+
 ## Run
 
 ```bash
