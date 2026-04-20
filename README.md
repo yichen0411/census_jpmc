@@ -6,6 +6,14 @@
 pip install pandas numpy scikit-learn matplotlib seaborn jupyter
 ```
 
+## Notebook Structure
+
+1. Data Loading & Exploration
+2. Preprocessing
+3. Classification Model
+4. Segmentation Model
+5. Conclusions
+
 ## Run
 
 ```bash
